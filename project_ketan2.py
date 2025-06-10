@@ -288,3 +288,7 @@ st.caption("""
 - **Jarak:** Dekat (<1.5 km), Sedang (1.5-3 km), Jauh (>3 km)
 - **Skor Efisiensi:** Diukur dari 0-100 (semakin tinggi semakin baik)
 """)
+
+
+st.markdown("---")
+st.markdown("2025 - Muhammad Fayyadh Abyan")
